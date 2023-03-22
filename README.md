@@ -5,6 +5,6 @@ Here is some new text
 
 ## Heading 1
 
-Heading testing
+Heading testing!
 
  
